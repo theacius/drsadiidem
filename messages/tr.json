@@ -1,0 +1,434 @@
+{
+  "site": {
+    "name": "Dr. Şadi İdem",
+    "title": "Dr. Şadi İdem — Çocuk Sağlığı ve Hastalıkları Uzmanı",
+    "description": "Eskişehir'de 29 yıllık deneyimle yenidoğan, çocuk gelişimi, alerji ve astım takibi. Özgürlükçü, çocuk odaklı pediatri yaklaşımı.",
+    "tagline": "Çocuk Sağlığı ve Hastalıkları Uzmanı",
+    "specialty": "Çocuk Sağlığı ve Hastalıkları"
+  },
+  "langSwitcher": {
+    "label": "Dil",
+    "nativeNames": {
+      "tr": "Türkçe",
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "ar": "العربية",
+      "ru": "Русский",
+      "nl": "Nederlands"
+    }
+  },
+  "floating": {
+    "scrollTop": "Yukarı çık",
+    "callPhone": "Telefonla ara",
+    "whatsApp": "WhatsApp ile yaz",
+    "whatsAppPrefill": "Merhaba, randevu hakkında bilgi almak istiyorum."
+  },
+  "nav": {
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat",
+    "mainNavigation": "Ana menü",
+    "menu": {
+      "home": "Ana Sayfa",
+      "about": "Hakkımda",
+      "services": "Hizmet Alanları",
+      "healthyChildMonitoring": "Fonksiyonel Tıp",
+      "blog": "Blog",
+      "contact": "İletişim"
+    },
+    "dropdownDesc": {
+      "hakkimda": "Özgeçmiş ve yaklaşım",
+      "ik": "Klinik ekibimize katılın",
+      "hastaGorusleri": "Ailelerin paylaştığı görüşler",
+      "basindaBiz": "Basın ve röportajlar",
+      "sss": "Sık sorulan sorular",
+      "fotoGaleri": "Klinik fotoğrafları",
+      "videoGaleri": "Konuşma ve seminer videoları"
+    },
+    "home": "Ana Sayfa",
+    "services": "Hizmet Alanları",
+    "healthyChildMonitoring": "Fonksiyonel Tıp",
+    "kurumsal": "Kurumsal",
+    "hakkimda": "Hakkımda",
+    "ik": "İnsan Kaynakları",
+    "hastaGorusleri": "Hasta Görüşleri",
+    "basindaBiz": "Basında Biz",
+    "sss": "S.S.S",
+    "bebekVeCocuk": "Bebek ve Çocuk",
+    "ebeveynAtolyesi": "Ebeveyn Atölyesi",
+    "galeri": "Galeri",
+    "fotoGaleri": "Foto Galeri",
+    "videoGaleri": "Video Galeri",
+    "blog": "Blog",
+    "iletisim": "İletişim",
+    "appointment": "Randevu Al",
+    "callNow": "Hemen Ara",
+    "viewAll": "Tümünü Gör",
+    "megaMenu": {
+      "introTitle": "Op. Dr. Şadi İdem",
+      "introBody": "Eskişehir’de pediatri ve çocuk sağlığı alanında bireysel muayene, izlem ve aile danışmanlığı sunuyorum. Koruyucu yaklaşım ve güvenilir iletişim önceliğimdir.",
+      "viewAllServices": "Tüm Hizmet Alanlarımız"
+    }
+  },
+  "topbar": {
+    "hours": "Pzt – Cum 09:00 – 18:00",
+    "saturday": "Cmt 09:00 – 17:00",
+    "phone": "0 (555) 151 1330",
+    "contact": "İletişim",
+    "appointment": "Randevu Al"
+  },
+  "hero": {
+    "eyebrow": "29 Yıldır Sizinleyiz · Eskişehir",
+    "title": "Çocuğunuzun yanında, <accent>tüm büyüme yolculuğunda.</accent>",
+    "description": "Yenidoğandan ergenliğe, sıcak ve çocuk odaklı bir yaklaşımla. Aşı takibi, gelişim değerlendirmesi, alerji ve astım yönetimi.",
+    "ctaPrimary": "Randevu Al",
+    "ctaSecondary": "WhatsApp'tan Yaz",
+    "stats": {
+      "years": "Yıl deneyim",
+      "patients": "Mutlu Aile",
+      "rating": "Hasta Memnuniyeti"
+    }
+  },
+  "trust": {
+    "experience": "29+ yıl klinik deneyim",
+    "location": "Tepebaşı / Eskişehir",
+    "hours": "Pzt — Cum 09:00 — 18:00",
+    "approach": "Çocuk odaklı, özgürlükçü yaklaşım"
+  },
+  "journeyTimeline": {
+    "eyebrow": "Kronoloji",
+    "title": "Klinik yolculuğumuz",
+    "subtitle": "Eğitimden bugünkü yaklaşımımıza — sayfayı kaydırdıkça çizgideki vurgu ilerler.",
+    "entries": [
+      {
+        "title": "1996 — Tıp eğitimine başlangıç",
+        "body": "Tıp fakültesine giriş; temel bilimler ile klinik gözlemin birlikte şekillendiği yıllar. Çocuk sağlığına olan ilgi bu dönemde belirginleşti."
+      },
+      {
+        "title": "2002 — Çocuk Sağlığı ve Hastalıkları uzmanlığı",
+        "body": "Pediatri uzmanlık eğitimi; yenidoğan bakımı, gelişim değerlendirmesi ve sık görülen çocuk hastalıklarında derinleşme."
+      },
+      {
+        "title": "2005 — Eskişehir’de klinik deneyim",
+        "body": "Bölgede süregelen klinik pratik; ailelerle uzun soluklu ilişkiler, aşı programları ve alerji–astım takibinde yoğun deneyim."
+      },
+      {
+        "title": "Bugün — Özgürlükçü, çocuk odaklı bakım",
+        "body": "Yirmi dokuz yılı aşkın süreçte; bilgilendirme, ebeveyn atölyeleri ve bütüncül bir bakış açısıyla çocuk sağlığını destekliyoruz."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "Hakkımızda",
+    "title": "29 Yıldır Sizinleyiz",
+    "biography": "Yenidoğan, çocuk ve ergen gelişimi ve psikolojisi, çocuk-ebeveyn ilişkileri, alerjik hastalıklar, astım, alerjik rinit, ekoloji ve çocuk gelişimi özel ilgi alanlarımdır. Evli ve iki çocuk babasıyım. Okur-yazar olup, \"Özgürlükçü Çocuk Odaklı Ebeveynlik\" başlığıyla seminerler vermekteyim.",
+    "cta": "Hakkımda daha fazla"
+  },
+  "topics": {
+    "title": "Bebek ve Çocuk",
+    "subtitle": "Bu bölüm bilgilendirme amaçlıdır; tanı, tedavi planı veya reçete yerine geçmez. Kesin değerlendirme için çocuğunuzu takip eden hekiminize danışınız.",
+    "viewAll": "Tüm konuları gör",
+    "sectionEyebrow": "Bebek ve Çocuk",
+    "cardDetail": "Detay",
+    "minutesSuffix": "dk",
+    "categories": {
+      "saglik": "Sağlık",
+      "beslenme": "Beslenme",
+      "uyku": "Uyku",
+      "gelisim": "Gelişim",
+      "asi": "Aşı",
+      "davranis": "Davranış"
+    }
+  },
+  "whyUs": {
+    "eyebrow": "Neden Biz?",
+    "title": "Çocuk Sağlığı ve Hastalıkları Konusunda",
+    "stats": {
+      "yearsLabel": "Yıllık deneyim",
+      "patientsLabel": "Danışan"
+    },
+    "items": {
+      "professional": {
+        "title": "Profesyonel Hizmet",
+        "description": "Çocuk Sağlığı ve Hastalıkları Uzmanı olarak deneyimleri dijital ortamda da aktarmaktayım."
+      },
+      "friendly": {
+        "title": "Güler Yüzlü Personel",
+        "description": "Polikliniğimiz hasta memnuniyetini öncelikli hale getirerek hastaların ihtiyacı olan tedavileri uygular."
+      },
+      "trusted": {
+        "title": "Güvenilir Tedavi",
+        "description": "Tüm teşhis ve tedavi süreci hastalarla iletişim halinde adım adım planlanır ve uygulanır."
+      },
+      "clean": {
+        "title": "Temiz Mekan",
+        "description": "Polikliniğimiz içinde hijyen kurallarına titizlikle uyulmaktadır.",
+        "badge": "Hijyen ve güvenlik standartları"
+      }
+    }
+  },
+  "press": {
+    "eyebrow": "Basında Biz",
+    "title": "Yayın ve röportajlardan kareler",
+    "subtitle": "Yıllar içinde paylaşılan görüşler, söyleşiler ve haberler"
+  },
+  "gallery": {
+    "foto": {
+      "empty": "Henüz fotoğraf eklenmemiş. Admin paneli → Galeri bölümünden albüm ve görselleri yönetebilirsiniz.",
+      "otherAlbumTitle": "Diğer görseller",
+      "openFullSize": "Tam boyutta aç",
+      "lightboxTitle": "Görsel önizleme",
+      "close": "Kapat"
+    }
+  },
+  "approach": {
+    "eyebrow": "Yaklaşımım",
+    "title": "Özgürlükçü, çocuk odaklı pediatri",
+    "body": "Her çocuk biriciktir. Tedaviden önce dinlemeye, ailenin yaşam tarzını anlamaya ve birlikte karar vermeye inanırım. \"Özgürlükçü Çocuk Odaklı Ebeveynlik\" seminerlerimle de bu felsefeyi paylaşıyorum.",
+    "cta": "Hakkımda daha fazla"
+  },
+  "testimonials": {
+    "title": "Sizin Görüşleriniz",
+    "subtitle": "Görüşleriniz bizim için önemlidir.",
+    "viewAll": "Tüm hasta görüşleri"
+  },
+  "blog": {
+    "sectionEyebrow": "Blog",
+    "title": "Blog Yazılarımız",
+    "subtitle": "Çocuk sağlığı hakkında bilgi ve rehber yazılar",
+    "viewAll": "Tüm yazılar",
+    "readMore": "Detaylar",
+    "minRead": "dk okuma",
+    "draftBadge": "Hazırlanıyor",
+    "draftNotice": "Bu yazının tam içeriği yakında hocamızın notları ışığında yayınlanacaktır. Görüş ve sorularınız için bize ulaşabilirsiniz."
+  },
+  "functionalMedicinePage": {
+    "metaTitle": "Fonksiyonel Tıp",
+    "metaDescription": "Çocuk sağlığında fonksiyonel tıp yaklaşımı — yedi sütunla beslenme, mikrobiyota, yaşam tarzı ve kök neden odaklı bakış.",
+    "eyebrow": "Yaklaşım",
+    "title": "Çocuk sağlığında fonksiyonel tıp",
+    "lead": "Sağlık yalnızca semptomların ötesinde; hücresel ve yaşam tarzı düzeyinde yeniden kurulur. Aşağıda kişiye özgü bakımı yönlendiren yedi başlığımızı bulabilirsiniz.",
+    "visual": {
+      "badgePillars": "7 sütun",
+      "badgeHolistic": "Bütüncül plan",
+      "badgeFamily": "Aile merkezli",
+      "introEyebrow": "Yedi boyut",
+      "sidebarTitle": "Konular",
+      "navAria": "Fonksiyonel tıp konuları menüsü",
+      "ctaEyebrow": "Sonraki adım",
+      "ctaTitle": "Çocuğunuz için kişisel bir görüşme planlamak isterseniz buradayız.",
+      "ctaButton": "Randevu alın"
+    }
+  },
+  "cta": {
+    "title": "Bilgi için Arayabilirsiniz",
+    "body": "Acil bir durum mevcutsa saat önemli değildir. Acil durum dışında mesai saatlerini tercih ediniz.",
+    "phoneLabel": "Telefon",
+    "whatsappLabel": "WhatsApp",
+    "formCta": "Randevu Formu"
+  },
+  "newsletter": {
+    "eyebrow": "E-bülten Aboneliği",
+    "title": "Çocuk sağlığı içeriklerimizi e-posta ile alın",
+    "description": "Mevsimsel uyarılar, aşı hatırlatmaları ve ebeveynler için pratik öneriler. İstediğiniz zaman ayrılabilirsiniz.",
+    "placeholder": "E-posta adresiniz",
+    "submit": "Abone Ol",
+    "success": "Aboneliğiniz alındı. Teşekkürler!",
+    "error": "Geçerli bir e-posta adresi giriniz.",
+    "privacy": "E-posta adresiniz yalnızca abonelik için kullanılır. Üçüncü kişilerle paylaşılmaz."
+  },
+  "footer": {
+    "tagline": "Eskişehir Çocuk Sağlığı ve Hastalıkları konusunda iletişime geçebilirsiniz. Saygılarımızla.",
+    "quickLinks": "Hızlı Menü",
+    "recentPosts": "Son Gönderiler",
+    "contact": "İletişim Bilgileri",
+    "hours": "Çalışma Saatleri",
+    "weekdays": "Pzt — Cum: 09:00 — 18:00",
+    "saturday": "Cmt: 09:00 — 17:00",
+    "sunday": "Pazar: Kapalı",
+    "weekend": "Hafta sonu: Kapalı",
+    "rights": "Tüm hakları saklıdır.",
+    "disclaimer": "Bu sitenin içeriği ziyaretçileri bilgilendirmeye yöneliktir. Sitedeki bilgiler tıbbi teşhis, tedavi planı veya reçete özelliği taşımaz. Çocuğunuzun sağlık durumuyla ilgili en doğru bilgiyi çocuğunuzu devamlı takip eden hekiminizden alabilirsiniz."
+  },
+  "appointment": {
+    "title": "Randevu Formu",
+    "subtitle": "Lütfen formu eksiksiz doldurunuz. Randevu saati için telefon ile aranacaksınız.",
+    "fields": {
+      "parentName": "Anne/Baba Adı Soyadı",
+      "parentOccupation": "Anne/Baba Mesleği",
+      "phone": "Telefon",
+      "email": "E-posta",
+      "childName": "Çocuğun Adı",
+      "childAge": "Çocuğun Yaşı",
+      "preferredDate": "Tercih Edilen Tarih",
+      "reason": "Başvuru Nedeni",
+      "message": "Eklemek istedikleriniz",
+      "captcha": "Doğrulama"
+    },
+    "reasonPlaceholder": "Seçiniz…",
+    "messagePlaceholder": "Randevu ile ilgili kısa bilgi yazınız (en az 10 karakter).",
+    "messageHint": "En az 10 karakter gerekir.",
+    "submit": "Randevu Oluştur",
+    "submitting": "Gönderiliyor…",
+    "again": "Yeni randevu talebi gönder",
+    "success": "Talebiniz alındı. En kısa sürede sizi arayacağız.",
+    "error": "Bir hata oluştu. Lütfen tekrar deneyin veya bizi arayın.",
+    "validationFallback": "Lütfen zorunlu alanları kontrol edin.",
+    "spamRejected": "Çok hızlı gönderim algılandı veya doğrulama başarısız. Birkaç saniye sonra yeniden deneyin.",
+    "spamFoot": "Form gönderildiğinde en kısa sürede size dönüş yapılır. Gönderim doğrulama ve otomatik filtrelerle korunur.",
+    "honeypotLabel": "Web sitesi (doldurmayın)",
+    "captchaHint": "Spam önlemek için basit matematik doğrulaması.",
+    "captchaPlaceholder": "Sonucu yazın",
+    "captchaRefresh": "Yenile",
+    "captchaRequired": "Lütfen doğrulama sorununun cevabını girin."
+  },
+  "career": {
+    "title": "İnsan Kaynakları",
+    "subtitle": "Polikliniğimizde görev almak için başvurunuzu iletebilirsiniz.",
+    "fields": {
+      "name": "Ad Soyad",
+      "phone": "Telefon",
+      "email": "E-posta",
+      "position": "Başvurulan Pozisyon",
+      "experience": "Deneyim",
+      "message": "Mesajınız"
+    },
+    "submit": "Başvuruyu Gönder"
+  },
+  "home": {
+    "parallax": {
+      "eyebrow": "Çocuk Sağlığı ve Hastalıkları Uzmanı",
+      "title": "Çocuk Sağlığı ve Hastalıkları Uzmanı Dr. Şadi İdem",
+      "subtitle": "Eskişehir'de; sağlıklı çocuk izlemi, aşı takibi ve alerji–astım yönetiminde çocuk odaklı, bütüncül pediatri.",
+      "ctaAbout": "Hakkımda",
+      "ctaServices": "Hizmet Alanlarımız"
+    },
+    "intro": {
+      "badge": "Çocuk Sağlığı ve Hastalıkları Uzmanı",
+      "title": "Eskişehir'de Çocuk Sağlığı ve Hastalıkları Uzmanı Uzm. Dr. Şadi İdem",
+      "description": "Çocuk sağlığında izlem, değerlendirme ve aile bilgilendirmesini odağına alan bir yaklaşım benimsiyorum. Yenidoğan döneminden çocukluk çağına kadar, her çocuğun yaşam evresine uygun takip ve danışmanlık sunuyorum.",
+      "ctaAppointment": "Randevu & İletişim",
+      "ctaServices": "Hizmet Alanlarımız",
+      "trustItems": [
+        { "title": "Kişiye Özel Çocuk Takibi", "body": "Periyodik izlem ve gelişim değerlendirmesi" },
+        { "title": "Fonksiyonel Tıp Yaklaşımı", "body": "Bütüncül değerlendirme ve kişiye özel takip planı" },
+        { "title": "Güvene Dayalı İletişim", "body": "Anlaşılır bilgilendirme ve açık iletişim" }
+      ],
+      "sideCards": [
+        { "title": "Koruyucu hekimlik odağı", "body": "Sağlıklı dönemde düzenli izlem" },
+        { "title": "Yenidoğan & prematüre", "body": "Hassas dönemde yakın takip" }
+      ]
+    },
+    "services": {
+      "eyebrow": "Hizmetler",
+      "title": "Hizmet Alanlarımız",
+      "subtitle": "Kliniğimizde sunulan hizmetler; çocuk sağlığını izlem, değerlendirme ve bilgilendirme odaklı bir yaklaşımla ele alınmaktadır. Her çocuk için süreç, bireysel ihtiyaçlar doğrultusunda planlanır.",
+      "detail": "Detayları İncele",
+      "viewAll": "Tüm Hizmetleri Gör",
+      "disclaimer": "Hizmet alanlarımız, tanı ve tedavi amaçlı reklam niteliği taşımaz. Tüm değerlendirmeler hekim muayenesi ve klinik değerlendirme çerçevesinde ele alınır.",
+      "hubTitle": "Uzm. Dr. Şadi İdem",
+      "hubSpecialty": "Çocuk Sağlığı ve Hastalıkları Uzmanı",
+      "hubLocation": "Eskişehir · Tepebaşı",
+      "hubBody": "18 yılı aşkın deneyimimle çocuğunuzun sağlıklı büyümesi ve gelişimi için yanınızdayım. Modern tıbbi yaklaşımları fonksiyonel tıp perspektifiyle birleştirerek, her çocuğa özel bütüncül sağlık hizmeti sunuyorum.",
+      "hubCtaPrimary": "Randevu Al",
+      "hubCta": "Randevu & İletişim"
+    },
+    "doctorNote": {
+      "eyebrow": "Doktorunuzdan bir not",
+      "greeting": "Merhaba, ben Dr. Şadi İDEM,",
+      "body": "25 yılı aşkın hekimlik tecrübemde gördüm ki; sağlıklı bir çocuk, sadece ilaçla değil, doğru beslenme, sağlıklı bir çevre ve güçlü ebeveyn ilişkileriyle yetişir. Muayenehanemde çocuğunuzu bir bütün olarak değerlendiriyor, bireye özgü kök nedenleri tespit ederek kalıcı iyileşmeyi hedefliyorum.",
+      "highlight": "bireye özgü",
+      "signature": "Uzm. Dr. Şadi İdem"
+    },
+    "approach": {
+      "label": "Yaklaşım",
+      "title": "Hekimlik Yaklaşımı",
+      "description": "Çocukların yalnızca hastalık dönemlerinde değil, sağlıklı oldukları zamanlarda da düzenli izlenmesini önemseyen; aile bilgilendirmesi odaklı bir takip anlayışı.",
+      "ctaAbout": "Hakkımda",
+      "ctaContact": "İletişim",
+      "infoCards": [
+        { "title": "Eğitim", "body": "Tıp eğitimi ve Çocuk Sağlığı uzmanlığı" },
+        { "title": "Klinik", "body": "Eskişehir Tepebaşı'nda özel muayenehane" }
+      ]
+    },
+    "clinic": {
+      "title": "Klinikten",
+      "subtitle": "Muayenehanenin sakin ve çocuk dostu atmosferinden bir kesit."
+    },
+    "faq": {
+      "title": "Sık Sorulan Sorular",
+      "subtitle": "Muayene ve izlem süreciyle ilgili en sık merak edilen başlıklar.",
+      "disclaimer": "Bu bölümde yer alan bilgiler genel bilgilendirme amaçlıdır. Tanı ve tedavi için hekim muayenesinin yerini tutmaz.",
+      "items": [
+        { "q": "Sağlıklı çocuk muayenesi hangi aralıklarla yapılır?", "a": "Yaşa ve gelişim dönemine göre değişir. Büyüme, gelişim, beslenme ve genel değerlendirme belirli aralıklarla takip edilir." },
+        { "q": "Yenidoğan takibinde neler değerlendirilir?", "a": "Beslenme, kilo alımı, sarılık izlemi, uyku düzeni ve genel klinik değerlendirme başta olmak üzere yenidoğan dönemi ele alınır." },
+        { "q": "Prematüre bebek takibi nasıl planlanır?", "a": "Düzeltilmiş yaş, beslenme, büyüme-gelişim ve klinik ihtiyaçlara göre izlem aralıkları belirlenir." },
+        { "q": "Uyku danışmanlığı hangi yaşlarda uygulanabilir?", "a": "Bebeklikten itibaren yaşa uygun uyku düzeni ve günlük rutinler değerlendirilebilir." },
+        { "q": "Emzirme danışmanlığında neler ele alınır?", "a": "Emzirme pozisyonu, kavrama, kilo alımı ve annenin sürece uyumu gibi başlıklar ele alınır." },
+        { "q": "Muayeneye gelirken neler getirmeliyim?", "a": "Varsa önceki tetkik/raporlar, ilaç listesi ve aşı kartı faydalı olur." },
+        { "q": "Gerekli durumlarda hangi testler istenebilir?", "a": "Hekim değerlendirmesine göre farklı testler planlanabilir; her karar klinik değerlendirmeye göre verilir." },
+        { "q": "Randevu süreci nasıl işler?", "a": "İletişim sayfasındaki form, telefon veya WhatsApp üzerinden randevu talebi oluşturabilirsiniz." }
+      ]
+    },
+    "carousel": {
+      "title": "Öne Çıkan Hizmet Alanları",
+      "subtitle": "Yenidoğan takibi, sağlıklı çocuk izlemi, klinik değerlendirme ve alerji yönetimi.",
+      "eyebrow": "Hizmet alanı",
+      "explore": "İncele",
+      "viewAll": "Tüm hizmet alanları →",
+      "prev": "Önceki",
+      "next": "Sonraki"
+    },
+    "healthCorner": {
+      "title": "Sağlık Köşesi",
+      "subtitle": "Çocuk sağlığı, beslenme, aşılar ve güncel pediatri bilgileri hakkında faydalı içerikler."
+    }
+  },
+  "childMonitoring": {
+    "eyebrow": "Sağlıklı Çocuk İzlenimi",
+    "title": "Sağlıklı çocuk izlemi ve koruyucu pediatri",
+    "lead": "Büyüme, gelişim, beslenme ve aşı takviminin yaşa uygun planlanması; ailelerin sürece dahil edildiği şeffaf bir izlem.",
+    "features": [
+      { "title": "Düzenli muayene", "body": "Yaşa göre planlanan kontroller ve gelişim değerlendirmesi." },
+      { "title": "Aşı takibi", "body": "Ulusal takvim ve ihtiyaca göre aşı danışmanlığı." },
+      { "title": "Beslenme", "body": "Büyüme eğrisi ve beslenme alışkanlıklarının izlenmesi." },
+      { "title": "Alerji & astım", "body": "Alerjik hastalıklarda uzun dönem takip planı." },
+      { "title": "Ebeveyn danışmanlığı", "body": "Özgürlükçü, çocuk odaklı ebeveynlik yaklaşımı." },
+      { "title": "Acil yönlendirme", "body": "Acil durumlarda ulaşılabilir iletişim hatları." }
+    ],
+    "ctaTitle": "Randevu oluşturun",
+    "ctaBody": "Çocuğunuz için uygun izlem planını birlikte belirleyelim.",
+    "ctaAppointment": "Randevu Al",
+    "ctaService": "Hizmet detayı"
+  },
+  "faq": {
+    "title": "S.S.S",
+    "subtitle": "Sıkça sorulan sorular",
+    "items": [
+      {
+        "q": "Randevu nasıl alabilirim?",
+        "a": "Sayfamızdaki randevu formunu doldurarak veya 0 (555) 151 1330 numaralı telefondan ulaşarak randevu oluşturabilirsiniz. Acil durumlar dışında mesai saatlerini tercih etmenizi rica ederiz."
+      },
+      {
+        "q": "Çocuğumu ne sıklıkla muayeneye getirmeliyim?",
+        "a": "Yenidoğanlarda ilk haftalarda sık takip yapılır; ardından aşı takvimi ile birlikte düzenli kontrol önerilir. Sağlıklı çocuklarda yıl içinde belirli aralıklarla gelişim değerlendirmesi yapılır."
+      },
+      {
+        "q": "Ateşli çocuğa nasıl yaklaşmalıyım?",
+        "a": "Ateş, vücudun savunma yanıtının bir parçasıdır. Ateş düşürücü kullanımı, sıvı alımı ve hangi durumda doktora başvurulması gerektiği konusunda 'Ateşli Çocuğa Yaklaşım' yazımızı incelemenizi öneririz."
+      },
+      {
+        "q": "Aşılar güvenli mi?",
+        "a": "Aşılar bilimsel olarak en güvenli ve etkili koruyucu sağlık uygulamalarındandır. Sorularınız için randevu sırasında detaylı bilgi alabilirsiniz."
+      },
+      {
+        "q": "Acil bir durumda ne yapmalıyım?",
+        "a": "Acil bir durumda mesai saatlerine bakılmaksızın 0 (555) 151 1330 numarasından bize ulaşabilirsiniz."
+      },
+      {
+        "q": "Online randevu sistemi var mı?",
+        "a": "Evet, sayfamızdaki online randevu formunu doldurarak randevu talebinizi iletebilirsiniz. Sizi en kısa sürede arayarak uygun saati birlikte belirliyoruz."
+      }
+    ]
+  }
+}

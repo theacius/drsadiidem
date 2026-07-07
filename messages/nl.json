@@ -1,0 +1,47 @@
+{
+  "langSwitcher": { "label": "Taal" },
+  "site": {
+    "specialty": "Kindergeneeskunde"
+  },
+  "floating": {
+    "scrollTop": "Terug naar boven",
+    "callPhone": "Bellen",
+    "whatsApp": "WhatsApp",
+    "whatsAppPrefill": "Hallo, ik wil graag informatie over een afspraak."
+  },
+  "nav": {
+    "menu": {
+      "home": "Home",
+      "corporate": "Organisatie",
+      "babyChild": "Baby & kind",
+      "parentWorkshop": "Ouderworkshop",
+      "functionalMedicine": "Functionele geneeskunde",
+      "gallery": "Galerij",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "dropdownDesc": {
+      "hakkimda": "Biografie en aanpak",
+      "ik": "Werken in ons team",
+      "hastaGorusleri": "Ervaringen van gezinnen",
+      "basindaBiz": "Pers en interviews",
+      "sss": "Veelgestelde vragen",
+      "fotoGaleri": "Fotogalerij van de praktijk",
+      "videoGaleri": "Lezingen en video's"
+    }
+  },
+  "topics": {
+    "sectionEyebrow": "Baby & kind",
+    "cardDetail": "Details",
+    "minutesSuffix": "min",
+    "categories": {
+      "saglik": "Gezondheid",
+      "beslenme": "Voeding",
+      "uyku": "Slaap",
+      "gelisim": "Ontwikkeling",
+      "asi": "Vaccinaties",
+      "davranis": "Gedrag"
+    }
+  },
+  "blog": { "sectionEyebrow": "Blog" }
+}

@@ -1,0 +1,47 @@
+{
+  "langSwitcher": { "label": "Sprache" },
+  "site": {
+    "specialty": "Kinderheilkunde"
+  },
+  "floating": {
+    "scrollTop": "Nach oben",
+    "callPhone": "Anrufen",
+    "whatsApp": "WhatsApp",
+    "whatsAppPrefill": "Hallo, ich möchte einen Termin anfragen."
+  },
+  "nav": {
+    "menu": {
+      "home": "Start",
+      "corporate": "Über uns",
+      "babyChild": "Baby & Kind",
+      "parentWorkshop": "Elternworkshop",
+      "functionalMedicine": "Funktionelle Medizin",
+      "gallery": "Galerie",
+      "blog": "Blog",
+      "contact": "Kontakt"
+    },
+    "dropdownDesc": {
+      "hakkimda": "Biografie und klinischer Ansatz",
+      "ik": "Karriere in unserer Praxis",
+      "hastaGorusleri": "Rückmeldungen von Familien",
+      "basindaBiz": "Presse und Interviews",
+      "sss": "Häufige gestellte Fragen",
+      "fotoGaleri": "Fotogalerie der Praxis",
+      "videoGaleri": "Vorträge und Seminare (Video)"
+    }
+  },
+  "topics": {
+    "sectionEyebrow": "Baby & Kind",
+    "cardDetail": "Details",
+    "minutesSuffix": "Min.",
+    "categories": {
+      "saglik": "Gesundheit",
+      "beslenme": "Ernährung",
+      "uyku": "Schlaf",
+      "gelisim": "Entwicklung",
+      "asi": "Impfungen",
+      "davranis": "Verhalten"
+    }
+  },
+  "blog": { "sectionEyebrow": "Blog" }
+}

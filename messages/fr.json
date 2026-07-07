@@ -1,0 +1,47 @@
+{
+  "langSwitcher": { "label": "Langue" },
+  "site": {
+    "specialty": "Pédiatrie"
+  },
+  "floating": {
+    "scrollTop": "Retour en haut",
+    "callPhone": "Appeler",
+    "whatsApp": "WhatsApp",
+    "whatsAppPrefill": "Bonjour, je souhaite des informations pour un rendez-vous."
+  },
+  "nav": {
+    "menu": {
+      "home": "Accueil",
+      "corporate": "À propos",
+      "babyChild": "Bébé et enfant",
+      "parentWorkshop": "Atelier parents",
+      "functionalMedicine": "Médecine fonctionnelle",
+      "gallery": "Galerie",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "dropdownDesc": {
+      "hakkimda": "Biographie et approche",
+      "ik": "Rejoindre notre équipe",
+      "hastaGorusleri": "Avis des familles",
+      "basindaBiz": "Presse et interviews",
+      "sss": "Questions fréquentes",
+      "fotoGaleri": "Photos du cabinet",
+      "videoGaleri": "Vidéos de conférences"
+    }
+  },
+  "topics": {
+    "sectionEyebrow": "Bébé et enfant",
+    "cardDetail": "Détails",
+    "minutesSuffix": "min",
+    "categories": {
+      "saglik": "Santé",
+      "beslenme": "Nutrition",
+      "uyku": "Sommeil",
+      "gelisim": "Développement",
+      "asi": "Vaccins",
+      "davranis": "Comportement"
+    }
+  },
+  "blog": { "sectionEyebrow": "Blog" }
+}

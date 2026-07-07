@@ -1,0 +1,461 @@
+{
+  "site": {
+    "name": "Dr. Şadi İdem",
+    "title": "Dr. Şadi İdem — Pediatrician",
+    "description": "Functional pediatrics in Eskişehir: newborn care, development, allergy and asthma follow-up with a whole-child, family-centered approach.",
+    "tagline": "Pediatrician",
+    "specialty": "Pediatrics"
+  },
+  "langSwitcher": {
+    "label": "Language",
+    "nativeNames": {
+      "tr": "Türkçe",
+      "en": "English",
+      "de": "Deutsch",
+      "fr": "Français",
+      "ar": "العربية",
+      "ru": "Русский",
+      "nl": "Nederlands"
+    }
+  },
+  "floating": {
+    "scrollTop": "Back to top",
+    "callPhone": "Call by phone",
+    "whatsApp": "Message on WhatsApp",
+    "whatsAppPrefill": "Hello, I'd like information about an appointment."
+  },
+  "nav": {
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "mainNavigation": "Main navigation",
+    "menu": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "healthyChildMonitoring": "Functional Medicine",
+      "blog": "Blog",
+      "contact": "Contact"
+    },
+    "dropdownDesc": {
+      "hakkimda": "Biography and clinical approach",
+      "ik": "Careers at our clinic",
+      "hastaGorusleri": "Feedback shared by families",
+      "basindaBiz": "Media coverage and interviews",
+      "sss": "Answers to common questions",
+      "fotoGaleri": "Clinic photo gallery",
+      "videoGaleri": "Talks and seminar videos"
+    },
+    "home": "Home",
+    "services": "Services",
+    "healthyChildMonitoring": "Functional Medicine",
+    "kurumsal": "About us",
+    "hakkimda": "About",
+    "ik": "Human Resources",
+    "hastaGorusleri": "Patient reviews",
+    "basindaBiz": "Press",
+    "sss": "FAQ",
+    "bebekVeCocuk": "Baby & Child",
+    "ebeveynAtolyesi": "Parent Workshop",
+    "galeri": "Gallery",
+    "fotoGaleri": "Photo gallery",
+    "videoGaleri": "Video gallery",
+    "blog": "Blog",
+    "iletisim": "Contact",
+    "appointment": "Book appointment",
+    "callNow": "Call now",
+    "viewAll": "See all",
+    "megaMenu": {
+      "introTitle": "Dr. Şadi İdem",
+      "introBody": "Pediatric care and child health follow-up in Eskişehir, with a preventive approach and clear communication with families.",
+      "viewAllServices": "All services"
+    }
+  },
+  "topbar": {
+    "hours": "Mon — Fri 09:00 — 18:00",
+    "phone": "0 (555) 151 1330",
+    "contact": "Contact",
+    "appointment": "Book Appointment"
+  },
+  "hero": {
+    "eyebrow": "29 years with you · Eskişehir",
+    "title": "By your child's side, <accent>through every milestone.</accent>",
+    "description": "From newborn to adolescence, with a warm and child-centered approach. Vaccination, development assessment, allergy and asthma management.",
+    "ctaPrimary": "Book appointment",
+    "ctaSecondary": "Message on WhatsApp",
+    "stats": {
+      "years": "Years of experience",
+      "patients": "Happy families",
+      "rating": "Patient satisfaction"
+    }
+  },
+  "trust": {
+    "experience": "29+ years of clinical experience",
+    "location": "Tepebaşı / Eskişehir",
+    "hours": "Mon — Fri 09:00 — 18:00",
+    "approach": "Child-centered, liberating approach"
+  },
+  "journeyTimeline": {
+    "eyebrow": "Timeline",
+    "title": "Our clinical journey",
+    "subtitle": "From training to today’s approach — scroll and watch the accent move along the line.",
+    "entries": [
+      {
+        "title": "1996 — Beginning medical school",
+        "body": "Foundational years linking basic science with clinical observation. Interest in child health grew steadily during this period."
+      },
+      {
+        "title": "2002 — Pediatrics specialty training",
+        "body": "Specialty training in child health and diseases; depth in newborn care, developmental assessment, and common pediatric conditions."
+      },
+      {
+        "title": "2005 — Clinical work in Eskişehir",
+        "body": "Ongoing practice in the region; long-term relationships with families, immunization programs, and focused allergy–asthma follow-up."
+      },
+      {
+        "title": "Today — Whole-child, family-centered care",
+        "body": "With more than twenty-nine years of experience, we support children’s health through education, parent workshops, and an integrative mindset."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "29 years with you",
+    "biography": "My interests include newborn care, child and adolescent development and psychology, parent-child relationships, allergic diseases, asthma, allergic rhinitis, ecology and child development. I am married and a father of two. I give seminars titled “Liberating Child-Centered Parenting.”",
+    "cta": "More about me"
+  },
+  "topics": {
+    "title": "Baby & Child",
+    "subtitle": "This section is for education only; it is not a diagnosis, treatment plan, or prescription. For definitive care, consult your child’s regular clinician.",
+    "viewAll": "See all topics",
+    "sectionEyebrow": "Baby & Child",
+    "cardDetail": "Details",
+    "minutesSuffix": "min read",
+    "categories": {
+      "saglik": "Health",
+      "beslenme": "Nutrition",
+      "uyku": "Sleep",
+      "gelisim": "Development",
+      "asi": "Immunization",
+      "davranis": "Behavior"
+    },
+    "articleTitles": {
+      "aile-ici-iliskiler-ve-cocuk-sagligi": "Family relationships and child health",
+      "atesli-cocuga-yaklasim": "Approach to the febrile child",
+      "atesli-havale": "Febrile seizures",
+      "sik-hastalanan-cocuk": "The child who gets sick often",
+      "tamamlayici-beslenmenin-ilkeleri": "Principles of complementary feeding",
+      "yurutec-faydali-mi-zararli-mi": "Baby walkers: helpful or harmful?",
+      "anne-sutu-ve-emzirme": "Breast milk and breastfeeding",
+      "istahsiz-cocuk-ve-yemek-secme": "Low appetite and picky eating",
+      "cocugumuz-ne-kadar-su-tuketmeli": "How much water should my child drink?",
+      "bebeklerde-uyku-sorunu": "Sleep problems in infants",
+      "uyku-egitimi-nasil-verebilirim": "Supporting healthy sleep habits",
+      "cocuga-asi-yaptirmali-miyim": "Should my child be vaccinated?"
+    },
+    "articleExcerpts": {
+      "aile-ici-iliskiler-ve-cocuk-sagligi": "How relationships at home affect a child's physical and emotional wellbeing.",
+      "atesli-cocuga-yaklasim": "What to watch for when your child has a fever and when to seek care.",
+      "atesli-havale": "What febrile seizures are, why they happen, and how families should respond.",
+      "sik-hastalanan-cocuk": "Immune development, daycare impact, and when frequent illnesses are normal.",
+      "tamamlayici-beslenmenin-ilkeleri": "Starting solids after 6 months — timing, foods, and how to begin safely.",
+      "yurutec-faydali-mi-zararli-mi": "Motor development considerations and safety when using walkers.",
+      "anne-sutu-ve-emzirme": "Why breastfeeding matters, latch basics, and common questions answered.",
+      "istahsiz-cocuk-ve-yemek-secme": "Why kids refuse foods and how to build peaceful meal habits at home.",
+      "cocugumuz-ne-kadar-su-tuketmeli": "Daily fluid needs by age and signs your child may need more fluids.",
+      "bebeklerde-uyku-sorunu": "How sleep changes by age and frequent causes of sleep struggles.",
+      "uyku-egitimi-nasil-verebilirim": "Gentle routines that support better sleep without harsh methods.",
+      "cocuga-asi-yaptirmali-miyim": "Evidence-based perspective on vaccine safety and benefits."
+    }
+  },
+  "whyUs": {
+    "eyebrow": "Why us?",
+    "title": "Pediatrics with depth and warmth",
+    "stats": {
+      "yearsLabel": "Years of experience",
+      "patientsLabel": "Families cared for"
+    },
+    "items": {
+      "professional": {
+        "title": "Professional care",
+        "description": "As a pediatric specialist, I bring clinical experience to families online as well."
+      },
+      "friendly": {
+        "title": "Friendly team",
+        "description": "We prioritize patient satisfaction and deliver the care families need."
+      },
+      "trusted": {
+        "title": "Trusted process",
+        "description": "Diagnosis and treatment are planned step by step together with families."
+      },
+      "clean": {
+        "title": "Clean spaces",
+        "description": "Strict hygiene standards are followed throughout the clinic.",
+        "badge": "Hygiene & safety standards"
+      }
+    }
+  },
+  "press": {
+    "eyebrow": "Press",
+    "title": "Media & interviews",
+    "subtitle": "Highlights from talks, interviews and news over the years"
+  },
+  "gallery": {
+    "foto": {
+      "empty": "No photos yet. Manage albums and images under Admin → Gallery.",
+      "otherAlbumTitle": "Other images",
+      "openFullSize": "Open full size",
+      "lightboxTitle": "Image preview",
+      "close": "Close"
+    }
+  },
+  "approach": {
+    "eyebrow": "My approach",
+    "title": "Liberating, child-centered pediatrics",
+    "body": "Every child is unique. I believe in listening before treating, understanding the family's lifestyle, and deciding together. I share this philosophy through my “Liberating Child-Centered Parenting” seminars.",
+    "cta": "More about me"
+  },
+  "testimonials": {
+    "title": "Your voices matter",
+    "subtitle": "Words from families who walked this journey with us.",
+    "viewAll": "All patient reviews"
+  },
+  "blog": {
+    "sectionEyebrow": "Blog",
+    "title": "Blog articles",
+    "subtitle": "Guidance on child health and parenting",
+    "viewAll": "All articles",
+    "readMore": "Details",
+    "minRead": "min read",
+    "draftBadge": "Coming soon",
+    "draftNotice": "Full content will be published soon. Reach out with questions anytime."
+  },
+  "functionalMedicinePage": {
+    "metaTitle": "Functional medicine",
+    "metaDescription": "Seven pillars of functional medicine approach to pediatric care — nutrition, gut health, lifestyle and root-cause thinking.",
+    "eyebrow": "Approach",
+    "title": "Functional medicine in pediatrics",
+    "lead": "Health is rebuilt beyond symptoms — at the cellular and lifestyle level. Below are the seven pillars we use to guide individualized care.",
+    "visual": {
+      "badgePillars": "7 pillars",
+      "badgeHolistic": "Holistic plans",
+      "badgeFamily": "Family-centered",
+      "introEyebrow": "Seven dimensions",
+      "sidebarTitle": "Topics",
+      "navAria": "Functional medicine topic navigation",
+      "ctaEyebrow": "What’s next",
+      "ctaTitle": "Ready to plan an individualized conversation for your child? We’re here.",
+      "ctaButton": "Book an appointment"
+    }
+  },
+  "cta": {
+    "title": "Call us for information",
+    "body": "In an emergency, time of day does not matter. Otherwise we kindly ask you to prefer office hours.",
+    "phoneLabel": "Phone",
+    "whatsappLabel": "WhatsApp",
+    "formCta": "Appointment form"
+  },
+  "newsletter": {
+    "eyebrow": "Newsletter",
+    "title": "Child-health updates by email",
+    "description": "Seasonal alerts, vaccine reminders and practical tips for parents. Unsubscribe anytime.",
+    "placeholder": "Your email address",
+    "submit": "Subscribe",
+    "success": "You're subscribed. Thank you!",
+    "error": "Please enter a valid email address.",
+    "privacy": "We use your email only for the newsletter and never share it."
+  },
+  "footer": {
+    "tagline": "Reach out for pediatric care in Eskişehir — with respect.",
+    "quickLinks": "Quick links",
+    "recentPosts": "Recent posts",
+    "contact": "Contact",
+    "hours": "Hours",
+    "weekdays": "Mon — Fri: 09:00 — 18:00",
+    "saturday": "Sat: 09:00 — 17:00",
+    "sunday": "Sun: Closed",
+    "weekend": "Weekend: Closed",
+    "rights": "All rights reserved.",
+    "disclaimer": "This site is for education only. It does not replace diagnosis or treatment from your child's physician."
+  },
+  "appointment": {
+    "title": "Appointment form",
+    "subtitle": "Please complete the form; we will call you back to confirm a time.",
+    "fields": {
+      "parentName": "Mother/Father full name",
+      "parentOccupation": "Mother/Father occupation",
+      "phone": "Phone",
+      "email": "Email",
+      "childName": "Child's name",
+      "childAge": "Child's age",
+      "preferredDate": "Preferred date",
+      "reason": "Reason for visit",
+      "message": "Anything else we should know",
+      "captcha": "Verification"
+    },
+    "reasonPlaceholder": "Choose…",
+    "messagePlaceholder": "Brief note about your visit (at least 10 characters).",
+    "messageHint": "At least 10 characters required.",
+    "submit": "Submit request",
+    "submitting": "Sending…",
+    "again": "Submit another request",
+    "success": "We received your request and will call you shortly.",
+    "error": "Something went wrong. Please try again or call us.",
+    "validationFallback": "Please check required fields.",
+    "spamRejected": "That submission was too fast or could not be verified. Wait a few seconds and try again.",
+    "spamFoot": "We will get back to you shortly after you submit. Submissions are protected with verification and spam filters.",
+    "honeypotLabel": "Website (leave blank)",
+    "captchaHint": "Simple math check to prevent spam.",
+    "captchaPlaceholder": "Your answer",
+    "captchaRefresh": "Refresh",
+    "captchaRequired": "Please answer the verification question."
+  },
+  "career": {
+    "title": "Human resources",
+    "subtitle": "Apply to join our clinic team.",
+    "fields": {
+      "name": "Full name",
+      "phone": "Phone",
+      "email": "Email",
+      "position": "Position",
+      "experience": "Experience",
+      "message": "Message"
+    },
+    "submit": "Send application"
+  },
+  "home": {
+    "parallax": {
+      "eyebrow": "Pediatric specialist",
+      "title": "Dr. Şadi İdem — Pediatric specialist",
+      "subtitle": "In Eskişehir — well-child visits, immunizations, and allergy–asthma care with holistic, child-centered pediatrics.",
+      "ctaAbout": "About",
+      "ctaServices": "Our services"
+    },
+    "intro": {
+      "badge": "Pediatric specialist",
+      "title": "Pediatric specialist Dr. Şadi İdem in Eskişehir",
+      "description": "I focus on monitoring, assessment and clear communication with families. From the newborn period through childhood, I offer follow-up and counselling tailored to each stage of life.",
+      "ctaAppointment": "Contact & appointment",
+      "ctaServices": "Our services",
+      "trustItems": [
+        { "title": "Personalized child follow-up", "body": "Periodic check-ups and development review" },
+        { "title": "Functional medicine approach", "body": "Holistic assessment and individualized plans" },
+        { "title": "Trust-based communication", "body": "Clear information and open dialogue" }
+      ],
+      "sideCards": [
+        { "title": "Preventive care focus", "body": "Regular monitoring in healthy periods" },
+        { "title": "Newborn & preterm", "body": "Close follow-up in sensitive stages" }
+      ]
+    },
+    "services": {
+      "eyebrow": "Services",
+      "title": "Our services",
+      "subtitle": "Our services focus on monitoring, assessment and education in child health. Each child’s care is planned around individual needs.",
+      "detail": "View details",
+      "viewAll": "View all services",
+      "disclaimer": "Our service areas are not promotional claims for diagnosis or treatment. All assessments take place within physician examination and clinical evaluation.",
+      "hubTitle": "Dr. Şadi İdem",
+      "hubSpecialty": "Pediatric specialist",
+      "hubLocation": "Eskişehir · Tepebaşı",
+      "hubBody": "With over 18 years of experience I support your child’s healthy growth, combining modern pediatrics with a functional medicine perspective for each child.",
+      "hubCtaPrimary": "Book appointment",
+      "hubCta": "Appointment & contact"
+    },
+    "doctorNote": {
+      "eyebrow": "A note from your doctor",
+      "greeting": "Hello, I'm Dr. Şadi İdem,",
+      "body": "In more than 25 years of practice I've seen that a healthy child grows not only through medicine, but through proper nutrition, a healthy environment and strong parent-child bonds. In my clinic I assess your child as a whole, identifying individualized root causes to aim for lasting improvement.",
+      "highlight": "individualized",
+      "signature": "Dr. Şadi İdem"
+    },
+    "approach": {
+      "label": "Approach",
+      "title": "Clinical approach",
+      "description": "We emphasize regular monitoring when children are healthy, not only during illness, with family education at the center.",
+      "ctaAbout": "About",
+      "ctaContact": "Contact",
+      "infoCards": [
+        { "title": "Training", "body": "Medical school and pediatric specialty" },
+        { "title": "Clinic", "body": "Private practice in Eskişehir" }
+      ]
+    },
+    "clinic": {
+      "title": "The clinic",
+      "subtitle": "A calm, child-friendly environment."
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "subtitle": "Common questions about visits and follow-up.",
+      "disclaimer": "General information only — not a substitute for an in-person medical visit.",
+      "items": [
+        { "q": "How often should healthy children be seen?", "a": "Intervals depend on age and development; growth, nutrition and general health are reviewed on a schedule." },
+        { "q": "What is assessed in newborn follow-up?", "a": "Feeding, weight gain, jaundice monitoring, sleep and overall clinical status." },
+        { "q": "How is preterm follow-up planned?", "a": "Intervals are set according to corrected age, nutrition, growth and clinical needs." },
+        { "q": "At what ages is sleep counseling useful?", "a": "From infancy onward, sleep routines can be reviewed in an age-appropriate way." },
+        { "q": "What does breastfeeding counseling cover?", "a": "Position, latch, weight gain and how the mother is adapting to the process." },
+        { "q": "What should I bring to a visit?", "a": "Previous reports, medication lists and the vaccination card are helpful." },
+        { "q": "When might tests be ordered?", "a": "Only when clinically appropriate, based on the physician's assessment." },
+        { "q": "How do I book an appointment?", "a": "Use the contact form, phone or WhatsApp on our contact page." }
+      ]
+    },
+    "carousel": {
+      "title": "Featured service areas",
+      "subtitle": "Newborn care, well-child visits, clinical assessment and allergy management.",
+      "eyebrow": "Service area",
+      "explore": "Explore",
+      "viewAll": "All service areas →",
+      "prev": "Previous",
+      "next": "Next"
+    },
+    "healthCorner": {
+      "title": "Health corner",
+      "subtitle": "Articles on child health, nutrition, vaccines and pediatrics."
+    }
+  },
+  "childMonitoring": {
+    "eyebrow": "Healthy child monitoring",
+    "title": "Well-child care and preventive pediatrics",
+    "lead": "Age-appropriate growth, development, nutrition and vaccination planning with transparent family communication.",
+    "features": [
+      { "title": "Regular visits", "body": "Scheduled checks and developmental assessment." },
+      { "title": "Vaccination", "body": "National schedule and individualized counseling." },
+      { "title": "Nutrition", "body": "Growth charts and feeding habits." },
+      { "title": "Allergy & asthma", "body": "Long-term management plans." },
+      { "title": "Parent counseling", "body": "Child-centered parenting approach." },
+      { "title": "Urgent guidance", "body": "Reachable contact lines when needed." }
+    ],
+    "ctaTitle": "Book a visit",
+    "ctaBody": "Let's plan the right follow-up for your child together.",
+    "ctaAppointment": "Book appointment",
+    "ctaService": "Service details"
+  },
+  "faq": {
+    "title": "FAQ",
+    "subtitle": "Frequently asked questions",
+    "items": [
+      {
+        "q": "How do I book an appointment?",
+        "a": "Use the appointment form on our site or call 0 (555) 151 1330. Outside emergencies, office hours are preferred."
+      },
+      {
+        "q": "How often should my child be seen?",
+        "a": "Newborns need frequent visits early on; later we follow growth and vaccines on a schedule. Healthy children still benefit from periodic developmental checks."
+      },
+      {
+        "q": "What should I do if my child has a fever?",
+        "a": "Fever is part of the body's defense. Guidance on fluids, antipyretics and red flags is summarized in our article “Approach to the Febrile Child.”"
+      },
+      {
+        "q": "Are vaccines safe?",
+        "a": "Vaccines are among the most studied and effective preventive tools. Ask us in clinic for personalized counseling."
+      },
+      {
+        "q": "What about emergencies?",
+        "a": "Call 0 (555) 151 1330 anytime in an emergency."
+      },
+      {
+        "q": "Is there online booking?",
+        "a": "Yes — submit the online form and we will call you to confirm a convenient time."
+      }
+    ]
+  }
+}

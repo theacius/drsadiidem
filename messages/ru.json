@@ -1,0 +1,47 @@
+{
+  "langSwitcher": { "label": "Язык" },
+  "site": {
+    "specialty": "Педиатрия"
+  },
+  "floating": {
+    "scrollTop": "Наверх",
+    "callPhone": "Позвонить",
+    "whatsApp": "WhatsApp",
+    "whatsAppPrefill": "Здравствуйте, хочу узнать про запись на приём."
+  },
+  "nav": {
+    "menu": {
+      "home": "Главная",
+      "corporate": "О клинике",
+      "babyChild": "Малыш и ребёнок",
+      "parentWorkshop": "Родительский семинар",
+      "functionalMedicine": "Функциональная медицина",
+      "gallery": "Галерея",
+      "blog": "Блог",
+      "contact": "Контакты"
+    },
+    "dropdownDesc": {
+      "hakkimda": "Биография и подход",
+      "ik": "Работа в нашей команде",
+      "hastaGorusleri": "Отзывы семей",
+      "basindaBiz": "Пресса и интервью",
+      "sss": "Частые вопросы",
+      "fotoGaleri": "Фотогалерея клиники",
+      "videoGaleri": "Лекции и видео"
+    }
+  },
+  "topics": {
+    "sectionEyebrow": "Малыш и ребёнок",
+    "cardDetail": "Подробнее",
+    "minutesSuffix": "мин",
+    "categories": {
+      "saglik": "Здоровье",
+      "beslenme": "Питание",
+      "uyku": "Сон",
+      "gelisim": "Развитие",
+      "asi": "Прививки",
+      "davranis": "Поведение"
+    }
+  },
+  "blog": { "sectionEyebrow": "Блог" }
+}

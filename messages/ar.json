@@ -1,0 +1,47 @@
+{
+  "langSwitcher": { "label": "اللغة" },
+  "site": {
+    "specialty": "طب الأطفال"
+  },
+  "floating": {
+    "scrollTop": "العودة للأعلى",
+    "callPhone": "اتصال هاتفي",
+    "whatsApp": "واتساب",
+    "whatsAppPrefill": "مرحبًا، أود الاستفسار عن موعد."
+  },
+  "nav": {
+    "menu": {
+      "home": "الرئيسية",
+      "corporate": "المؤسسة",
+      "babyChild": "الرضيع والطفل",
+      "parentWorkshop": "ورشة الوالدين",
+      "functionalMedicine": "الطب الوظيفي",
+      "gallery": "المعرض",
+      "blog": "المدونة",
+      "contact": "اتصل بنا"
+    },
+    "dropdownDesc": {
+      "hakkimda": "السيرة والنهج العلاجي",
+      "ik": "الانضمام لفريق العيادة",
+      "hastaGorusleri": "آراء العائلات",
+      "basindaBiz": "التغطية الإعلامية",
+      "sss": "أسئلة شائعة",
+      "fotoGaleri": "معرض صور العيادة",
+      "videoGaleri": "محاضرات وفيديوهات"
+    }
+  },
+  "topics": {
+    "sectionEyebrow": "الرضيع والطفل",
+    "cardDetail": "التفاصيل",
+    "minutesSuffix": "د",
+    "categories": {
+      "saglik": "الصحة",
+      "beslenme": "التغذية",
+      "uyku": "النوم",
+      "gelisim": "النمو",
+      "asi": "التطعيم",
+      "davranis": "السلوك"
+    }
+  },
+  "blog": { "sectionEyebrow": "المدونة" }
+}
